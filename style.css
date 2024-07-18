@@ -1,0 +1,12 @@
+*{
+    padding: 10px;
+}
+
+body {
+    display: flex;
+    background-color: #000;
+}
+
+a{
+    color: #730000;
+}
